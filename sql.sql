@@ -1,0 +1,12 @@
+INSERT INTO "main"."department" ("name", "code", "id", "created_at", "updated_at") VALUES ('Alibori', 'AL', '1', '2021-10-17 16:17:32.663944', '2021-10-17 16:17:32.663987');
+INSERT INTO "main"."department" ("name", "code", "id", "created_at", "updated_at") VALUES ('Atacora', 'AT', '2', '2021-10-17 16:17:32.663944', '2021-10-17 16:17:32.663987');
+INSERT INTO "main"."department" ("name", "code", "id", "created_at", "updated_at") VALUES ('Atlantique', 'AQ', '3', '2021-10-17 16:17:32.663944', '2021-10-17 16:17:32.663987');
+INSERT INTO "main"."department" ("name", "code", "id", "created_at", "updated_at") VALUES ('Borgou', 'BO', '4', '2021-10-17 16:28:53.552109', '2021-10-17 16:28:53.552165');
+INSERT INTO "main"."department" ("name", "code", "id", "created_at", "updated_at") VALUES ('Collines', 'CO', '5', '2021-10-17 16:28:53.552109', '2021-10-17 16:28:53.552165');
+INSERT INTO "main"."department" ("name", "code", "id", "created_at", "updated_at") VALUES ('Couffo', 'CF', '6', '2021-10-17 16:28:53.552109', '2021-10-17 16:28:53.552165');
+INSERT INTO "main"."department" ("name", "code", "id", "created_at", "updated_at") VALUES ('Donga', 'DO', '7', '2021-10-17 16:28:53.552109', '2021-10-17 16:28:53.552165');
+INSERT INTO "main"."department" ("name", "code", "id", "created_at", "updated_at") VALUES ('Littoral', 'LI', '8', '2021-10-17 16:28:53.552109', '2021-10-17 16:28:53.552165');
+INSERT INTO "main"."department" ("name", "code", "id", "created_at", "updated_at") VALUES ('Mono', 'MO', '9', '2021-10-17 16:28:53.552109', '2021-10-17 16:28:53.552165');
+INSERT INTO "main"."department" ("name", "code", "id", "created_at", "updated_at") VALUES ('Ouémé', 'OU', '10', '2021-10-17 16:28:53.552109', '2021-10-17 16:28:53.552165');
+INSERT INTO "main"."department" ("name", "code", "id", "created_at", "updated_at") VALUES ('Plateau', 'PL', '11', '2021-10-17 16:28:53.552109', '2021-10-17 16:28:53.552165');
+INSERT INTO "main"."department" ("name", "code", "id", "created_at", "updated_at") VALUES ('Zou', 'ZU', '12', '2021-10-17 16:28:53.552109', '2021-10-17 16:28:53.552165');
